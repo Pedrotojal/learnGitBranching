@@ -315,6 +315,7 @@ exports.strings = {
     'es_AR': 'No podés ejecutar ese comando en una rama remota',
     'es_ES': 'No puedes ejecutar ese comando en una rama remota',
     'pt_BR': 'Você não pode executar esse comando em um ramo remoto',
+    'pt_PT': 'Não podes executar esse comando em um ramo remoto',
     'gl'   : 'Non podes executar ese comando nunha rama remota',
     'fr_FR': 'Vous ne pouvez exécuter cette commande sur une branche distante',
     'ru_RU': 'Вы не можете выполнить эту команду на удаленной ветке',
