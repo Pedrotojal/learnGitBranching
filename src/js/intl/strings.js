@@ -260,6 +260,7 @@ exports.strings = {
     'es_AR': 'Estás en la versión más reciente',
     'es_ES': 'Ya actualizado con la versión más reciente.',
     'pt_BR': 'Já estamos na versão mais recente!',
+    'pt_PT': 'Já estamos na versão mais recente!',
     'gl'   : 'Xa estamos actualizados ca versión máis recente',
     'zh_TW': '已經是最新的了',
     'zh_CN': '已经是最新的了',
