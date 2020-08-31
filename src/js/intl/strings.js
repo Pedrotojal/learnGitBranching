@@ -279,6 +279,7 @@ exports.strings = {
     'es_AR': 'Tu rama origin está desincronizada con la rama remota, por lo que no se puede hacer el fetch',
     'es_ES': 'Tu rama origin no está sicronizada con la rama remota, así que el fetch no se puede realizar.',
     'pt_BR': 'O fetch não pode ser realizado pois o ramo de origem está fora de sincronia com o ramo remoto',
+    'pt_PT': 'O fetch não pode ser realizado pois o ramo de origem não está sincronizado com o ramo remoto',
     'gl'   : 'O fetch non pode ser realizado xa que a rama de orixe non está sincronizada  ca rama remota',
     'fr_FR': 'Votre branche origin n\'est plus synchronisée avec la branche distante et fetch ne peut pas être appliqué. Essayez avec l\'option --force',
     'ru_RU': 'Ваша origin ветка не синхронизирована с удаленной веткой, невозможно выполнить fetch',
