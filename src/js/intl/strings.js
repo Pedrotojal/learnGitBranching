@@ -146,6 +146,7 @@ exports.strings = {
     'es_AR': '¡Necesito la opción {opcion} para ese comando!',
     'es_ES': '¡Necesito la opción {opcion} para ese comando!',
     'pt_BR': 'Eu preciso da opção {option} para esse comando!',
+    'pt_PT': 'Eu preciso da opção {option} para esse comando!',
     'gl'   : 'Preciso da opción {option} para ese comando!',
     'fr_FR': 'J\'ai besoin de l\'option {option} pour cette commande',
     'de_DE': 'Ich benötige die Option {option} für diesen Befehl!',
