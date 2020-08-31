@@ -185,6 +185,7 @@ exports.strings = {
     'es_AR': '¡Detached HEAD!',
     'es_ES': '¡HEAD separado! (Detached HEAD).',
     'pt_BR': 'Detached HEAD!',
+    'pt_PT': 'Detached HEAD!',
     'gl'   : '¡Detached HEAD!',
     'fr_FR': 'head détaché !',
     'ru_RU': 'Отделенный HEAD',
