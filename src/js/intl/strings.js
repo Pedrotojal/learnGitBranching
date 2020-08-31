@@ -10,6 +10,7 @@ exports.strings = {
     'es_AR': '¡Ea! Terminaste el último nivel, ¡genial!',
     'es_ES': '¡Felicitaciones! Terminaste el último nivel!',
     'pt_BR': 'Uia! Você terminou o último nível, massa!',
+    'pt_PT': 'Parabéns! Terminaste o último nível!',
     'gl'   : '¡Yeeeha! Remataches o derradeiro nivel, ¡a tope!',
     'fr_FR': 'Félicitations, vous avez réussi le dernier niveau !',
     'ru_RU': 'Вау! Вы прошли последний уровень, отлично!',
