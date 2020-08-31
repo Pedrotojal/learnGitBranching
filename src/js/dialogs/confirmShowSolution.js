@@ -69,6 +69,16 @@ exports.dialog = {
       ]
     }
   }],
+  'pt_PT': [{
+    type: 'ModalAlert',
+    options: {
+      markdowns: [
+        '## Tens a certeza que queres ver a solução?',
+        '',
+        'Vamos lá, tu consegues!'
+      ]
+    }
+  }],
   'gl': [{
     type: 'ModalAlert',
     options: {
