@@ -203,6 +203,7 @@ exports.strings = {
     'es_AR': 'En la rama {branch}',
     'es_ES': 'En la rama {branch}',
     'pt_BR': 'No ramo {branch}',
+    'pt_PT': 'No ramo {branch}',
     'gl'   : 'Non na rama {branch}',
     'fr_FR': 'Sur la branche {branch}',
     'ru_RU': 'В ветке {branch}',
