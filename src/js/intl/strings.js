@@ -89,6 +89,7 @@ exports.strings = {
     'es_AR': '¡Cuidado! Mercurial hace garbage collection agresivamente y necesita eliminar tu árbol',
     'es_ES': '¡Cuidado! Mercurial hace la recolección de basura agresivamente (para administrar memoria) y necesita podar tu árbol.',
     'pt_BR': 'Cuidado! O Mercurial faz coleção de lixo agressiva e precisa prunar sua árvore',
+    'pt_PT': 'Cuidado! O Mercurial faz garbage collection agressiva (para limpar memória) e precisa podar a tua árvore',
     'gl'   : '¡Coidado! Mercurial fai que recolección de lixo agresivamente (para limpar memoria) e precisa podar a túa árbore.',
     'fr_FR': 'Attention, Mercurial supprime de façon agressive et nécessite un prune du repository',
     'de_DE': 'Achtung! Mercurial macht aggressive Garbage Collection und muss daher deinen Baum reduzieren',
