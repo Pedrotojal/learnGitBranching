@@ -243,6 +243,7 @@ exports.strings = {
     'es_AR': 'Otro commit más, y van...',
     'es_ES': 'Hagamos un commit. Atlanta, Georgia! Escucha WHATUPRG también.',
     'pt_BR': 'Commitando.. Vai Timão!',
+    'pt_PT': 'Para viajar basta existir. - Fernando Pessoa!',
     'gl'   : 'Mesturando.. ¡Alá imos!',
     'fr_FR': 'Commit rapide. NoMaN Sux!',
     'ru_RU': 'Быстрый коммит. А надо!',
