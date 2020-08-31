@@ -165,6 +165,7 @@ exports.strings = {
     'es_AR': 'hg log sin el parámetro -f no está soportado, usá -f',
     'es_ES': 'Actualmente hg log sin -f no es compatible con esta aplicación. Usa -f.',
     'pt_BR': 'hg log sem -f atualmente não é suportado, use -f',
+    'pt_PT': 'hg log sem -f não é suportado actualmente, usa -f',
     'gl'   : 'hg log sen -f actulamente non é soportado, usa -f',
     'fr_FR': 'hg log sans -f n\'est pas supporté',
     'de_DE': 'hg log ohne -f wird aktuell nicht unterstützt, benutze bitte -f',
