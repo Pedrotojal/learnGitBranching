@@ -71,6 +71,7 @@ exports.strings = {
     'es_AR': 'Fijate si podés bajarlo a usar sólo {best} comandos :D',
     'es_ES': 'Trata de usar sólo {best} comandos :D',
     'pt_BR': 'Veja se consegue reduzir para somente {best} :D',
+    'pt_PT': 'Vê se consegues reduzir para somente {best} :D',
     'gl'   : 'Mira se consigues reducir a solo {best} :D',
     'fr_FR': 'Voyons si vous pouvez descendre à {best} :D',
     'ru_RU': 'Попробуйте, может вы сможете уложиться в {best} : D',
