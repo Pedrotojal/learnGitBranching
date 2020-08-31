@@ -223,6 +223,7 @@ exports.strings = {
     'es_AR': '¡Listo para commitear! (como siempre en esta demo ;-) )',
     'es_ES': '¡Listo para hacer un commit (como siempre en esta demo)!',
     'pt_BR': 'Pronto para commitar! (como sempre neste demo ;-) )',
+    'pt_PT': 'Pronto para fazer commit! (como sempre neste demo ;-) )',
     'gl'   : '¡Praparado para facer un commit (como sempre nesta demo ;-) )!',
     'fr_FR': 'Prêt à commit ! (comme toujours dans cette démo)',
     'ru_RU': 'Готово к коммиту! (как и всегда в этом демо)',
