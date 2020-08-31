@@ -108,6 +108,7 @@ exports.strings = {
     'es_AR': 'La opción -A no es necesaria para esta aplicación, simplemente hacé commit',
     'es_ES': 'La opción -A no se necesita para este aplicación, sólo hace un commit!',
     'pt_BR': 'A opção -A não é necessária para este aplicativo, simplesmente faça commit',
+    'pt_PT': 'A opção -A não é necessária para esta aplicação, faz simplesmente commit',
     'gl'   : 'A opción -A non se necesita para este aplicativo, ¡fai só un commit!',
     'de_DE': 'Die Option -A wird in dieser Anwendung nicht benötigt, committe einfach!',
     'fr_FR': 'L\'option -A n\'est pas nécessaire pour cette application, simplement commiter',
