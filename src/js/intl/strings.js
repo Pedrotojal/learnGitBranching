@@ -45,6 +45,7 @@ exports.strings = {
     '__desc__': 'One of the lines in the next level dialog',
     'en_US': 'Awesome! You matched or exceeded our solution.',
     'pt_BR': 'Maravilha! Você fez uma solução tão boa quanto ou melhor que a nossa.',
+    'pt_PT': 'Incrível! A tua solução é tão boa ou melhor que a nossa.',
     'de_DE': 'Wahnsinn! Du warst so gut wie unsere Lösung, oder sogar besser.',
     'ja': '素晴らしい！このレベルをクリアしましたね',
     'zh_CN': '太强了！你的答案符合标准答案甚至更好。',
