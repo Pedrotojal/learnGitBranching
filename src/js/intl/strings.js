@@ -127,6 +127,7 @@ exports.strings = {
     'es_AR': 'No hay un comando status para esta aplicación, dado que no hay archivos que indexar. Probá hg summary, en cambio',
     'es_ES': 'No hay un comando status para esta aplicación, porque no hay archivos que indexar. Prueba el comando hg summary',
     'pt_BR': 'Não existe um comando status para este aplicativo, já que não há staging de arquivos. Tente hg summary',
+    'pt_PT': 'Não existe um comando status para esta aplicação, já que não há staging de arquivos. Tenta hg summary',
     'gl'   : 'Non hai un comando status para esta aplicación, xa que non hai ficheiros que indexar. Proba hg summary',
     'fr_FR': 'Il n\'y a pas de commande status pour cette application, car il n\'y a pas de fichier stagé. Essayez hg summary à la place.',
     'de_DE': 'Es gibt keinen Befehl status in dieser Anwendung, da es kein Staging von Dateien gibt. Probier stattdessen hg summary',
