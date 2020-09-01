@@ -1131,6 +1131,7 @@ exports.strings = {
     'es_AR': 'LGB no puede recibir comandos en dispositivos móviles. Visitanos desde una desktop, ¡lo vale! :D',
     'es_ES': 'LGB no puede recibir comandos en dispositivos móviles. Visítanos en una computadora de escritorio, ¡lo vale! :D',
     'pt_BR': 'Provavelmente você não vai conseguir digitar comandos no celular, neste caso tente acessar de um computador',
+    'pt_PT': 'Provavelmente não vais conseguir escrever comandos no telemóvel, neste caso tenta aceder através de um computador',
     'gl'   : 'LGB non pode recibir os comandos nos dispositivos móbiles. Visítanos dende un ordenador de escritorio, ¡paga a pena! :D',
     'fr_FR': 'Impossible de faire apparaître le clavier sur mobile / tablette :( Essayez de passer sur un ordinateur de bureau :D',
     'ru_RU': 'Мобильные не поддерживаются, зайди с компьютера!',
