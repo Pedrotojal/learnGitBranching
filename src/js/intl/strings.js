@@ -1075,6 +1075,7 @@ exports.strings = {
     'es_AR': 'Esta es una lista de los comandos disponibles:',
     'es_ES': 'Esta es una lista de todos los comandos disponibles:',
     'pt_BR': 'Esta é uma lista dos comandos disponíveis:',
+    'pt_PT': 'Esta é a lista de comandos disponíveis:',
     'gl'   : 'Esta é unha lista dos comando dispoñibles:',
     'fr_FR': 'Ci-dessous est la liste de toutes les commandes disponibles :',
     'ru_RU': 'Вот все поддерживаемуе команды:',
