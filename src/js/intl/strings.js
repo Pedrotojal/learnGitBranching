@@ -760,6 +760,7 @@ exports.strings = {
     'es_AR': 'Aprendé a Branchear en Git',
     'es_ES': 'Aprende Git Branching',
     'pt_BR': 'Learn Git Branching',
+    'pt_PT': 'Learn Git Branching',
     'gl'   : 'Aprende Git Branching',
     'fr_FR': 'Apprenez Git Branching',
     'ru_RU': 'Изучаем ветвление в git',
