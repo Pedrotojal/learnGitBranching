@@ -847,6 +847,7 @@ exports.strings = {
     'es_AR': 'El nombre "{branch}" no está permitido para los branches',
     'es_ES': 'El nombre "{branch}" es prohibido para nombrar una rama.',
     'pt_BR': 'Um ramo não pode ser chamado de "{branch}"!',
+    'pt_PT': 'Um ramo não pode ser chamado de "{branch}"!',
     'gl'   : 'Unha rama non pode ser chamada "{branch}',
     'fr_FR': 'Ce nom de branche "{branch}" n\'est pas autorisé',
     'ru_RU': 'Название для ветки "{branch}" недопустимо!',
