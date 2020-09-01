@@ -1226,6 +1226,7 @@ exports.strings = {
     'es_AR': 'No se encontró ningún nivel {id}. Abriendo la vista de selección de niveles...',
     'es_ES': 'No se encontró ningún nivel {id}. Abriendo la vista de selección de niveles...',
     'pt_BR': 'O nível "{id}" não existe! Abrindo uma caixa de seleção de nível',
+    'pt_PT': 'O nível "{id}" não existe! A abrir a caixa de selecção de nível',
     'gl'   : 'O nivel "{id}" non existe! Abrindo unha caixa de seleción de nivel',
     'fr_FR': 'Le niveau dont l\'identifiant est {id} n\'a pas été trouvé ! Ouverture de la vue de sélection des niveaux',
     'ru_RU': 'Уровень с id "{id}" не найден! Открываю выбор уровней',
