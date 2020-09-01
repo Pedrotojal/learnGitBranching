@@ -599,6 +599,7 @@ exports.strings = {
     'es_AR': 'No podés hacer reset en el modo detached. Usá checkout si querés moverte',
     'es_ES': 'No puedes hacer reset en el modo separado. Usa checkout si quieres moverte.',
     'pt_BR': 'Não se pode fazer reset no modo detached. Use checkout se quiser se mover',
+    'pt_PT': 'Não se pode fazer reset no modo detached. Usa checkout para avançar',
     'gl'   : 'Non se pode facer reset no modo detached. Use checkout se te queres mover',
     'fr_FR': 'On ne peut pas effectuer un reset quand HEAD est détaché. Utilisez checkout pour déplacer',
     'ru_RU': 'Это невозможно в режиме detached HEAD! Используйте checkout!',
