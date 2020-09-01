@@ -1188,6 +1188,7 @@ exports.strings = {
     'es_AR': 'El mapa resuelto fue eliminado, estás arrancando desde un estado limpio',
     'es_ES': 'El mapa resuelto fue eliminado, estás empezando de un estado limpio.',
     'pt_BR': 'Mapa de resolvidos descartado, você está começando com ficha limpa!',
+    'pt_PT': 'Mapa de resolvidos descartado, estás a começar com ficha limpa!',
     'gl'   : 'O mapa resolto foi eliminado, estás arrancando dende un estado limpo.',
     'fr_FR': 'La carte des niveaux résolus a été effacée, vous repartez de zéro !',
     'ru_RU': 'Всё сброшено! Можно начать с чистого листа!',
