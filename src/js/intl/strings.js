@@ -466,6 +466,7 @@ exports.strings = {
     'es_AR': 'Rama actualmente actualizada',
     'es_ES': 'La rama ya se ha actualizado.',
     'pt_BR': 'Ramo já atualizado',
+    'pt_PT': 'Ramo já atualizado',
     'gl'   : 'Rama xa actualizada',
     'fr_FR': 'Branche déjà à jour',
     'ru_RU': 'Ветка уже обновлена',
