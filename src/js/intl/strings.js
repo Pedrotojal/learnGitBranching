@@ -702,6 +702,7 @@ exports.strings = {
     'es_AR': 'Espero al menos {lower} parámetros para {what}',
     'es_ES': 'Espero al menos {lower} parámetros para {what}.',
     'pt_BR': 'Espero pelo menos {lower} parâmetros para {what}',
+    'pt_PT': 'É esperado pelo menos {lower} parâmetros para {what}',
     'gl'   : 'Agardo polo menos {lower} parámetros para {what}',
     'fr_FR': 'J\'attends au moins {lower} argument(s) pour {what}',
     'ru_RU': 'Ожидается как минимум {lower} аргументов для {what}',
