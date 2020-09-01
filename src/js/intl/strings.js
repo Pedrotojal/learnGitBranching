@@ -999,6 +999,7 @@ exports.strings = {
     'es_AR': 'Refrezcando el árbol...',
     'es_ES': 'Actualizando el árbol...',
     'pt_BR': 'Atualizando a árvore...',
+    'pt_PT': 'Actualizando a árvore...',
     'gl'   : 'Actualizando a árbore...',
     'fr_FR': 'Actualisation de l\'arbre…',
     'ru_RU': 'Обновляю дерево...',
