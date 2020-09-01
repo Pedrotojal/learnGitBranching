@@ -942,6 +942,7 @@ exports.strings = {
     'es_AR': 'Uso:',
     'es_ES': 'Uso:',
     'pt_BR': 'Uso:',
+    'pt_PT': 'Uso:',
     'gl'   : 'Uso:',
     'fr_FR': 'Utilisation :',
     'ru_RU': 'Использование:',
