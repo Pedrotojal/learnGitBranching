@@ -923,6 +923,7 @@ exports.strings = {
     'es_AR': 'Comandos soportados:',
     'es_ES': 'Comandos compatibles:',
     'pt_BR': 'Comandos suportados:',
+    'pt_PT': 'Comandos suportados:',
     'gl'   : 'Comandos soportados:',
     'fr_FR': 'Commandes supportées',
     'ru_RU': 'Поддерживаемые команды',
