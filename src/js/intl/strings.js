@@ -645,6 +645,7 @@ exports.strings = {
     'es_AR': 'No existe el concepto de agregar/indexar cambios, así que esa opción o comando es inválido',
     'es_ES': 'No existe el concepto de agregar/indexar cambios, así que esa opción o comando es inválido.',
     'pt_BR': 'Não existe o conceito de adicionar/indexar mudanças, de forma que essa opção ou comando é inválida',
+    'pt_PT': 'Não existe o conceito de adicionar/indexar mudanças, de forma que essa opção ou comando é inválida',
     'gl'   : 'Non existe o concepto de agregar/indexar cambios, así que esa opción ou comando é inválido.',
     'fr_FR': 'Il n\'y a pas le concept d\'ajouter / mettre en staging, donc cette option ou commande est invalide',
     'ru_RU': 'Это демо не работает с файлами, так что git add не нужен!',
