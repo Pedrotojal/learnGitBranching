@@ -621,6 +621,7 @@ exports.strings = {
     'es_ES': 'El comportamiento default para reajustes es --hard, pero siéntete libre de omitir esa ' +
       'opción si te cansas de escribirla en nuestras lecciones. Recuerda quepor defecto el comportamiento en GitHub es --mixed.',
     'pt_BR': 'O comportamento padrão é um reset --hard, fique livre para omitir essa opção!',
+    'pt_PT': 'O comportamento padrão é um reset --hard, podes omitir essa opção!',
     'gl'   : 'O comportamente por defecto é un reset --hard, Lembra que por defecto en GitHub é --mixed.',
     'fr_FR': 'Le comportement par défaut est un --hard reset, soyez libre d\'omettre cette option !',
     'ru_RU': 'По умолчанию будет выполнен --hard reset, эту опцию можно опускать!',
