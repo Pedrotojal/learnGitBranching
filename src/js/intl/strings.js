@@ -683,6 +683,7 @@ exports.strings = {
     'es_AR': 'Espero como máximo {upper} parámetros para {what}',
     'es_ES': 'Espero al máximo {upper} parámetros para {what}.',
     'pt_BR': 'Espero no máximo {upper} parâmetros para {what}',
+    'pt_PT': 'É esperado no máximo {upper} parâmetros para {what}',
     'gl'   : 'Espero ó máximo {upper} parámetros para {what}',
     'fr_FR': 'J\'attends au plus {upper} argument(s) pour {what}',
     'ru_RU': 'Ожидается максимум {upper} аргумент(ов) для {what}',
