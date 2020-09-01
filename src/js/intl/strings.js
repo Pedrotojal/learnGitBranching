@@ -1113,6 +1113,7 @@ exports.strings = {
     'es_AR': 'NoTePreocupesPorLosArchivosEnEstaDemo.txt',
     'es_ES': 'NoTePreocupesPorLosArchivosEnEstaDemo.txt',
     'pt_BR': 'NaoSePreocupeComNomesDeArquivoNesteDemo.txt',
+    'pt_PT': 'NaoTePreocupesComNomesDeArquivosNestaDemo.txt',
     'gl'   : 'NonTePreocupesPolosCambiosNestaDemo.txt',
     'fr_FR': 'DontWorryAboutFilesInThisDemo.txt (ne vous préoccupez pas des noms de fichier dans cette démo)',
     'ru_RU': 'НеНадоЗаботитьсяОФайлахВЭтомДемо.txt',
