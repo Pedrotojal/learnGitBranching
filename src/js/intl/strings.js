@@ -980,6 +980,7 @@ exports.strings = {
     'es_AR': 'Invirtiendo el árbol...',
     'es_ES': 'Invirtiendo el árbol...',
     'pt_BR': 'Invertendo a árvore...',
+    'pt_PT': 'Invertendo a árvore...',
     'gl'   : 'Invirtindo a árbore...',
     'fr_FR': 'Inversion de l\'arbre...',
     'ru_RU': 'Переворачиваю дерево...',
