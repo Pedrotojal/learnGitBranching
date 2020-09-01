@@ -1094,6 +1094,7 @@ exports.strings = {
     'es_AR': 'Directorio cambiado a "/los/directorios/no/importan/en/esta/demo"',
     'es_ES': 'Directorio cambiado a "/los/directorios/no/importan/en/esta/demo"',
     'pt_BR': 'Diretório mudado para "/diretorios/nao/importam/neste/demo"',
+    'pt_PT': 'Directório mudado para "/directorios/nao/importam/nesta/demo"',
     'gl'   : 'Directorio cambiado a "/os/directorios/non/importan/nesta/demo"',
     'fr_FR': 'Répertoire changé à "/directories/dont/matter/in/this/demo" (les répertoires ne servent à rien dans cette démo)',
     'ru_RU': 'Директория изменена на "/директории/не/важны/в/этом/демо"',
