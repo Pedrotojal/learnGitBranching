@@ -409,6 +409,7 @@ exports.strings = {
     'es_AR': '¡No hay commits para rebasear! Son todos commits de merge o cambios ya aplicados',
     'es_ES': '¡No hay commits para hacer rebase! Todo es un merge commit o cambios ya hecho.',
     'pt_BR': 'Não há commits para o rebase! São todos commits de merge ou mudanças já aplicadas',
+    'pt_PT': 'Não há commits para o rebase! São todos commits de merge ou mudanças já aplicadas',
     'gl'   : '¡Non hai commits para o rebase! Son todos commits de merge ou cambios xa aplicados',
     'fr_FR': 'Aucun commit à rebaser ! C\'est soit un commit de merge, soit des modifications déjà appliquées',
     'ru_RU': 'Нет коммитов для rebase! Все в коммите слияния или изменения уже применены',
