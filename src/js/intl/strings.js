@@ -1150,6 +1150,7 @@ exports.strings = {
     'es_AR': '¡Compartí este árbol con amigos! Pueden cargarlo con "import tree"',
     'es_ES': '¡Comparte este árbol con amigos! Pueden cargarlo con "import tree"',
     'pt_BR': 'Compartilhe esta árvore com seus amigos! Eles podem carregá-la com "import tree"',
+    'pt_PT': 'Compartilha esta árvore com teus amigos! Eles podem carregá-la com "import tree"',
     'gl'   : '¡Comparte esta árbore cos teus amigos! Eles poden cargalo con "import tree"',
     'fr_FR': 'Partagez cet arbre avec vos amis ! Ils peuvent le charger avec "import tree"',
     'ru_RU': 'Поделись деревом с друзьями! Они могут загрузить его при помощи "import tree"',
