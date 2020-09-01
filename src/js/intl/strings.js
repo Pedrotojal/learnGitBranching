@@ -1207,6 +1207,7 @@ exports.strings = {
     'es_AR': '¡No estás en un nivel! Estás en el sandbox, comenzá un nivel usando "levels"',
     'es_ES': '¡No estás en un nivel! Estás en el sandbox, comienza un nivel con "levels"',
     'pt_BR': 'Você não está em um nível! Você está no sandbox, comece um nível com "levels"',
+    'pt_PT': 'Não estás num nível! Estás na sandbox, começa um nível com "levels"',
     'gl'   : '¡Non estás en ningún nivel! Estás nunha caixa de arena, comeza un nivel usando "levels"',
     'fr_FR': 'Vous n\'êtes pas dans un niveau ! Vous êtes dans le mode bac à sable, commencez un niveau avec "levels"',
     'ru_RU': 'Ты не проходишь уровень! Ты в песочнице! Чтобы начать уровень, используй команду "levels"!',
