@@ -828,6 +828,7 @@ exports.strings = {
     'es_AR': 'Perdón, necesitamos mantener los nombres de los branches cortos para visualizarlos. El nombre de tu rama se truncó a 9 caracteres, resultando en "{branch}"',
     'es_ES': 'Perdón, necesitamos mantener los nombres de las ramas cortos para visualizarlos. El nombre de tu rama se truncó a 9 caracteres, resultando en "{branch}"',
     'pt_BR': 'Desculpe, precisamos manter os nomes dos ramos curtos para visualizá-los. O nome do seu ramo foi truncado para 9 caracteres, resultando em "{branch}"',
+    'pt_PT': 'Desculpa mas precisamos manter os nomes dos ramos curtos, para visualizá-los. O nome do teu ramo foi truncado para 9 caracteres, resultando em "{branch}"',
     'gl'   : 'Desculpe, precisamos manter os nomes das ramas curtas para poder velas. O nome da súa rama foi truncada a 9 letras, resultado en "{branch}"',
     'fr_FR': 'Désolé, nous devons garder les noms de branches courts pour la visualisation. Votre nom de branche a été tronqué à 9 caractères, devenant "{branch}"',
     'ru_RU': 'Для наглядности нам нужно сохранять имена веток короткими. Твоё название сокращено до 9 символов и теперь это "{branch}"',
