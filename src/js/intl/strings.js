@@ -1037,6 +1037,7 @@ exports.strings = {
     'es_AR': 'Localización vuelta al default, que es {locale}',
     'es_ES': 'Idioma reajustado a su valor por defecto ({locale})',
     'pt_BR': 'Língua retornada para a padrão, que é {locale}',
+    'pt_PT': 'Língua revertida para a padrão, que é {locale}',
     'gl'   : 'Lingua reaxustada ó seu valor por defecto {locale}',
     'fr_FR': 'Langue remise par défaut, qui est {locale}',
     'ru_RU': 'Локаль сброшена. Теперь она равна {locale}',
