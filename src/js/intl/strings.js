@@ -1281,6 +1281,7 @@ exports.strings = {
     'zh_CN': '恭喜过关！！',
     'zh_TW': '恭喜，本關解決了！！',
     'es_ES': '¡Resuelto!\n:D',
+    'pt_PT': 'Resolvido!\n:D',
     'gl'   : '¡Resolto!',
     'ru_RU': 'Решено!!\n:D',
     'uk'   : 'Вирішено!!\n:D',
