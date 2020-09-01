@@ -740,6 +740,7 @@ exports.strings = {
     'es_AR': 'Copiá el código de acá abajo',
     'es_ES': 'Copia el código que sigue.',
     'pt_BR': 'Copie o código abaixo',
+    'pt_PT': 'Copia o código abaixo',
     'gl'   : 'Copie o código abaixo',
     'fr_FR': 'Copiez la chaîne d\'arbre ci-dessous',
     'ru_RU': 'Скопируй текст ниже',
