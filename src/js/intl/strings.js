@@ -447,6 +447,7 @@ exports.strings = {
     'es_AR': 'Fast forwardeando...',
     'es_ES': 'Avanzando rápidamente...',
     'pt_BR': 'Fast forward...',
+    'pt_PT': 'Fast forward...',
     'gl'   : 'Fast forward...',
     'fr_FR': 'En avance rapide…',
     'ru_RU': 'Выполняю Fast forward...',
