@@ -542,6 +542,7 @@ exports.strings = {
     'es_AR': 'No es necesario hacer add a los archivos en esta demo',
     'es_ES': 'No es necesario agregar los archivos en esta demo',
     'pt_BR': 'Não é necessário adicionar arquivos neste demo',
+    'pt_PT': 'Não é necessário adicionar arquivos nesta demo',
     'gl'   : 'Non é necesario incluír arquivos nesta demo',
     'fr_FR': 'Aucun besoin d\'ajouter des fichiers dans cette démo',
     'ru_RU': 'Это демо не оперирует файлами',
