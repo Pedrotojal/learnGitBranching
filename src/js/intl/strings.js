@@ -1245,6 +1245,7 @@ exports.strings = {
     'es_AR': 'No hay comandos que deshacer',
     'es_ES': 'No hay comandos que deshacer',
     'pt_BR': 'Você já desfez tudo!',
+    'pt_PT': 'Já desfizeste tudo!',
     'gl'   : 'Nonn hai comandos que desfacer',
     'fr_FR': 'La pile d\'annulation est vide !',
     'ru_RU': 'Некуда откатывать!',
