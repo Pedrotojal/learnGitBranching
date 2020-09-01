@@ -1169,6 +1169,7 @@ exports.strings = {
     'es_AR': '¡Pegá un blob JSON abajo!',
     'es_ES': '¡Pega un blob JSON abajo!',
     'pt_BR': 'Cole o JSON abaixo!',
+    'pt_PT': 'Cola o JSON abaixo!',
     'gl'   : 'Pega un JSON abaixo!',
     'fr_FR': 'Collez un blob JSON ci-dessous !',
     'ru_RU': 'Вставь JSON ниже!',
