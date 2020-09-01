@@ -865,6 +865,7 @@ exports.strings = {
     'es_AR': 'El nombre "{tag}" no está permitido para los tags',
     'es_ES': 'El nombre "{tag}" es prohibido para nombrar un tag.',
     'pt_BR': 'Uma tag não pode ser chamada de "{tag}"!',
+    'pt_PT': 'Uma tag não pode ser chamada de "{tag}"!',
     'gl'   : 'Unha etiqueta non pode ser chamada "{tag}"',
     'de_DE': 'Der Tag-Name "{tag}" ist nicht erlaubt!',
     'fr_FR': 'Le nom de tag "{tag}" n\'est pas autorisé',
