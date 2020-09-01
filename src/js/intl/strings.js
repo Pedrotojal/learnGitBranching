@@ -333,6 +333,7 @@ exports.strings = {
     'es_AR': 'Necesitás un origen para ese comando',
     'es_ES': 'Se requiere un origen para ese comando.',
     'pt_BR': 'É necessário informar uma origem para esse comando',
+    'pt_PT': 'É necessária uma origem para este comando',
     'gl'   : 'É necesario informar unha orixe para ese comando',
     'fr_FR': 'Une origine est requise pour cette commande',
     'ru_RU': 'Origin требуется для этой команды',
