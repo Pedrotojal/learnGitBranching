@@ -904,6 +904,7 @@ exports.strings = {
     'es_AR': 'git <comando> [<parametros>]',
     'es_ES': 'git <comando> [<parametros>]',
     'pt_BR': 'git <comando> [<parâmetros>]',
+    'pt_PT': 'git <comando> [<parâmetros>]',
     'gl'   : 'git <comando> [<parámetros>]',
     'fr_FR': 'git <commande> [<arguments>]',
     'ru_RU': 'git <команда> [<аргументы>]',
