@@ -1264,6 +1264,7 @@ exports.strings = {
     'es_AR': 'Ya resolviste este nivel, probá otros usando "levels" o volvé al sandbox usando "sandbox"',
     'es_ES': 'Ya resolviste este nivel, prueba otros usando "levels" o vuelve al sandbox usando "sandbox"',
     'pt_BR': 'Você já resolveu este nível, tente outros com "levels" ou volte ao sandbox com "sandbox"',
+    'pt_PT': 'Já resolveste este nível, tenta outros com "levels" ou volta à sandbox com "sandbox"',
     'gl'   : 'Xa resolviches este nivel, proba outros usando "levels" ou volve á caixa de area con "sandbox"',
     'fr_FR': 'Vous avez déjà résolu ce niveau, essayez d\'autres niveaux avec "levels" ou revenez au bac à sable avec "sandbox"',
     'ru_RU': 'Ты уже прошел этот уровень, попробуй пройти другие при помощи команды "levels" или иди в песочницу "sandbox"',
