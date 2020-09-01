@@ -885,6 +885,7 @@ exports.strings = {
     'es_AR': 'La opción {option} no está soportada',
     'es_ES': 'La opción {option} no compatible con esta demo.',
     'pt_BR': 'A opção {option} não é suportada',
+    'pt_PT': 'A opção {option} não é suportada',
     'gl'   : 'A opción {option} non está soportada',
     'fr_FR': 'L\'option "{option}" n\'est pas supportée',
     'ru_RU': 'Опция "{option}" недопустима!',
