@@ -721,6 +721,7 @@ exports.strings = {
     'es_AR': 'Ese comando no acepta parámetros comunes',
     'es_ES': 'Ese comando no acepta parámetros generales.',
     'pt_BR': 'Este comando não aceita parâmetros gerais',
+    'pt_PT': 'Este comando não aceita parâmetros gerais',
     'gl'   : 'Este comando non acepta parámetros xeráis',
     'fr_FR': 'Cette commande n\'accepte aucun argument général',
     'ru_RU': 'Это команда без аргументов',
