@@ -504,6 +504,7 @@ exports.strings = {
     'es_AR': 'El commit {commit} no tiene un {match}',
     'es_ES': 'El commit {commit} no tiene un {match}',
     'pt_BR': 'O commit {commit} não tem um {match}',
+    'pt_PT': 'O commit {commit} não tem um {match}',
     'gl'   : 'O commit {commit} non ten un {match}',
     'fr_FR': 'Le commit {commit} n\'a pas de correspondance {match}',
     'ru_RU': 'Коммит {commit} не содержит {match}',
