@@ -523,6 +523,7 @@ exports.strings = {
     'es_AR': '¡Cuidado! Modo de detached HEAD',
     'es_ES': '¡Cuidado! Modo de HEAD separado (detached HEAD)',
     'pt_BR': 'Cuidado! Modo Detached HEAD',
+    'pt_PT': 'Cuidado! Modo Detached HEAD',
     'gl'   : '¡Coidado! Modo Detached HEAD',
     'fr_FR': 'Attention ! HEAD est détaché',
     'ru_RU': 'Внимание! Репозиторий в состоянии detached HEAD, то есть не находится ни на какой ветке!',
