@@ -485,6 +485,7 @@ exports.strings = {
     'es_AR': 'La referencia {ref} no existe o es desconocida',
     'es_ES': 'La referencia {ref} no existe o es desconocida',
     'pt_BR': 'A referência {ref} não existe ou é desconhecida',
+    'pt_PT': 'A referência {ref} não existe ou é desconhecida',
     'gl'   : 'A referencia {ref} non existe ou é descoñecida',
     'fr_FR': 'La référence {ref} n\'existe pas ou est inconnue',
     'ru_RU': 'Ссылка {ref} не существует или неизвестна',
