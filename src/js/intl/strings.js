@@ -664,6 +664,7 @@ exports.strings = {
     'es_AR': 'Revirtiendo {oldCommit}: {oldMsg}',
     'es_ES': 'Volviendo a {oldCommit}: {oldMsg}',
     'pt_BR': 'Revertendo {oldCommit}: {oldMsg}',
+    'pt_PT': 'Revertendo {oldCommit}: {oldMsg}',
     'gl'   : 'Revertindo {oldCommit}: {oldMsg}',
     'fr_FR': 'Revert {oldCommit}: {oldMsg}',
     'ru_RU': 'Откатываю {oldCommit}: {oldMsg}',
