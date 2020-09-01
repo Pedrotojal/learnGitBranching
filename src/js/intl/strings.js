@@ -351,6 +351,7 @@ exports.strings = {
     'es_AR': '¡Ya existe el origen! No podés crear uno nuevo',
     'es_ES': '¡Ya existe un origen! No puedes crearlo de nuevo.',
     'pt_BR': 'A origem já existe! Você não pode criar uma nova',
+    'pt_PT': 'A origem já existe! Não podes criar uma nova',
     'gl'   : 'A orixe xa existe! Non podes crear unha nova',
     'fr_FR': 'Une origine existe déjà ! Vous ne pouvez pas en créer une nouvelle',
     'ru_RU': 'Origin уже существует! Невозможно создать еще один',
