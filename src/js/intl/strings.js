@@ -427,6 +427,7 @@ exports.strings = {
     'es_AR': 'Nada para hacer...',
     'es_ES': 'Nada para hacer...',
     'pt_BR': 'Nada a ser feito...',
+    'pt_PT': 'Nada para fazer...',
     'gl'   : 'Nada para facer...',
     'fr_FR': 'Rien à effectuer…',
     'ru_RU': 'Нечего выполнять...',
