@@ -779,6 +779,7 @@ exports.strings = {
     'es_AR': 'Seleccioná un nivel',
     'es_ES': 'Selecciona un nivel',
     'pt_BR': 'Selecione um nível',
+    'pt_PT': 'Seleciona um nível',
     'gl'   : 'Selecciona un nivel',
     'fr_FR': 'Choisissez un niveau',
     'ru_RU': 'Выбери уровень',
