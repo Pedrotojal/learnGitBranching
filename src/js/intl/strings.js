@@ -1056,6 +1056,7 @@ exports.strings = {
     'es_AR': 'Usá alguno de estos comandos para tener más información:',
     'es_ES': 'Por favor usa uno de los siguientes comandos para más información:',
     'pt_BR': 'Use algum destes comandos para ter mais informações:',
+    'pt_PT': 'Usa um destes comandos para ter mais informações:',
     'gl'   : 'Usa algún destes comandos para ter máis información:',
     'fr_FR': 'Merci d\'utiliser une des commandes suivantes pour obtenir plus d\'informations',
     'ru_RU': 'Для получения большей информации используй следующие команды:',
