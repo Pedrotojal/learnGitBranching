@@ -371,6 +371,7 @@ exports.strings = {
     'es_AR': 'No podés borrar la rama master, la rama en la que estás, o cosas que no son ramas',
     'es_ES': 'No puedes eliminar la rama master, la rama en que estás, o cosas que no son ramas.',
     'pt_BR': 'Você não pode apagar o ramo master, nem o ramo em que você está, nem coisas que não sejam ramos',
+    'pt_PT': 'Não podes apagar o ramo master, nem o ramo em que estás, nem coisas que não sejam ramos',
     'gl'   : 'Non podes borrala rama master, nin a rama na que ti estás, nin cousas que non sexan ramas',
     'fr_FR': 'Vous ne pouvez supprimer la branche master, la branche sur laquelle vous êtes, ou ce qui n\'est pas une branche',
     'ru_RU' : 'Невозможно удалить ветку master, ветку на которой вы сейчас и то что не является веткой',
