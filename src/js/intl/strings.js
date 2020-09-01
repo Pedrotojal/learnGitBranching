@@ -580,6 +580,7 @@ exports.strings = {
     'es_AR': 'El commit {commit} ya existe en tus cambios, ¡abortando!',
     'es_ES': 'El commit {commit} ya existe en tus cambios, ¡abortando!',
     'pt_BR': 'O commit {commit} já existe nas suas mudanças, abortando!',
+    'pt_PT': 'O commit {commit} já existe nas tuas mudanças, abortando!',
     'gl'   : 'O commit {commit} xa existe nos seus cambios, ¡abortando!',
     'fr_FR': 'Le commit {commit} existe déjà dans votre ensemble de modifications, opération avortée !',
     'ru_RU': 'Коммит {commit} существует, отменяю!',
