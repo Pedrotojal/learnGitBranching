@@ -390,6 +390,7 @@ exports.strings = {
     'es_AR': 'Mergear {target} a {current}',
     'es_ES': 'Incorporar {target} en {current}',
     'pt_BR': 'Merge de {target} em {current}',
+    'pt_PT': 'Merge de {target} em {current}',
     'gl'   : 'Merge de {target} en {current}',
     'fr_FR': 'Merge de {target} dans {current}',
     'ru_RU': 'Слияние {target} в {current}',
