@@ -561,6 +561,7 @@ exports.strings = {
     'es_ES': 'Las opciones que especificaste son incompatibles o incorrectas.',
     'es_AR': 'No es necesario hacer add a los archivos en esta demo',
     'pt_BR': 'As opções que você especificou são incompatíveis ou incorretas',
+    'pt_PT': 'As opções que especificaste são incompatíveis ou incorretas',
     'gl'   : 'As opcións que especificaches son incompatibles ou incorrectas',
     'fr_FR': 'Les options que vous avez spécifiées sont incompatibles ou incorrectes',
     'ru_RU': 'Неправильные опции',
