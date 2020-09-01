@@ -961,6 +961,7 @@ exports.strings = {
     'es_AR': 'Git Versión PCOTTLE.1.0',
     'es_ES': 'Git Versión PCOTTLE.1.0',
     'pt_BR': 'Git versão PCOTTLE.1.0',
+    'pt_PT': 'Git versão PCOTTLE.1.0',
     'gl'   : 'Git versión PCOTTLE.1.0',
     'fr_FR': 'Git version PCOTTLE.1.0',
     'ru_RU': 'Версия git PCOTTLE.1.0',
