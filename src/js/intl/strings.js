@@ -1018,6 +1018,7 @@ exports.strings = {
     'es_AR': 'Localización actualizada a {locale}',
     'es_ES': 'Idioma puesto a {locale}',
     'pt_BR': 'Língua trocada para {locale}',
+    'pt_PT': 'Língua trocada para {locale}',
     'gl'   : 'Cambiado o idioma a {locale}',
     'fr_FR': 'Langue changée à {locale}',
     'ru_RU': 'Локаль теперь равна {locale}',
