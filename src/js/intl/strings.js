@@ -1529,6 +1529,7 @@ exports.strings = {
     'zh_TW': '提示',
     'zh_CN': '提示',
     'es_ES': 'Objetivo',
+    'pt_PT': 'Objectivo',
     'gl'   : 'Obxectivo',
     'ru_RU': 'Задача',
     'uk': 'Задача',
