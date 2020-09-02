@@ -1377,6 +1377,7 @@ exports.strings = {
     'es_AR': 'Ingresá una pista para este nivel, o dejalo en blanco si no querés incluir ninguna',
     'es_ES': 'Ingresa una pista para este nivel, o déjalo en blanco si no quieres incluir ninguna.',
     'pt_BR': 'Colocque uma dica para este nível, ou deixe em branco se não quiser incluir',
+    'pt_PT': 'Coloca uma dica para este nível, ou deixa em branco se não quiseres incluir',
     'gl'   : 'Ingresa unha pista para este nivel, ou déixao en branco se non a queres incluír.',
     'fr_FR': 'Entrez l\'indice pour ce niveau, ou laissez-le vide pour ne pas l\'inclure',
     'ru_RU': 'Введи подсказку для уровня, если хочешь.',
