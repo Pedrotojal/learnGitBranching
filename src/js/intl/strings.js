@@ -1663,6 +1663,7 @@ exports.strings = {
     'es_AR': '¡No hay mensaje de inicio para este nivel!',
     'es_ES': '¡No hay mensaje de inicio para este nivel!',
     'pt_BR': 'Não há mensagem de início para este nível!',
+    'pt_PT': 'Não há mensagem de início para este nível!',
     'gl'   : '¡Non hai mensaxe de inicio para este nivel!',
     'fr_FR': 'Il n\'y a aucun dialogue de départ à afficher pour ce niveau !',
     'ja'   : 'このLevelにはスタートダイアログが存在しません',
