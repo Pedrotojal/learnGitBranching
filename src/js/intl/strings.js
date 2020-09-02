@@ -1703,6 +1703,7 @@ exports.strings = {
     'es_AR': 'Aún no hay traducción para {key} :( ¡Metete en GitHub y sugerí una! :)',
     'es_ES': 'Aún no hay traducción para {key}. :( ¡Métete en GitHub y sugiere una! :)',
     'pt_BR': 'Não existe tradução para {key} :( Pule no GitHub e sugira uma! :)',
+    'pt_PT': 'Não existe tradução para {key} :( Vai ao GitHub e sugire uma! :)',
     'gl'   : 'Non existe tradución para {key} :( Axúdanos en GitHub e suxire unha! :)',
     'fr_FR': 'La traduction pour {key} n\'existe pas encore :( Venez sur GitHub pour en offrir une !',
     'ja'   : '{key}の翻訳がまだ存在しません :( GitHubでの、翻訳の協力をお願いします m(_)m',
