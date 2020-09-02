@@ -1339,6 +1339,7 @@ exports.strings = {
     'es_AR': 'No especificaste un mensaje de inicio, ¿querés agregar uno?',
     'es_ES': 'No especificaste un mensaje de inicio, ¿quieres agregar uno?',
     'pt_BR': 'Você não especificou uma mensagem de início, quer colocar uma?',
+    'pt_PT': 'Não especificaste uma mensagem de início, queres colocar uma?',
     'gl'   : 'Non especificaches unha mensaxe de incio. ¿queres agregar un?',
     'fr_FR': 'Vous n\'avez pas spécifié de dialogue de départ, voulez-vous en ajouter un ?',
     'ru_RU': 'Не указано стартово сообщение! Точно продолжаем?',
