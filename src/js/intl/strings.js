@@ -1301,6 +1301,7 @@ exports.strings = {
     'es_AR': '¡Ese comando de git está deshabilitado para este nivel!',
     'es_ES': '¡Ese comando de git está deshabilitado para este nivel!',
     'pt_BR': 'Achou que seria fácil assim? Desabilitamos esse comando durante este nível, só para dificultar ;-)',
+    'pt_PT': 'Achaste que seria fácil? Desabilitámos esse comando durante este nível, só para dificultar ;-)',
     'gl'   : '¡Ese comando de git está deshabilitado para este nivel!',
     'fr_FR': 'Cette commande git est désactivée pour ce niveau !',
     'ru_RU': 'На этом уровне нельзя использовать эту команду!',
