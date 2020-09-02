@@ -19,6 +19,7 @@ var langLocaleMap = {
   fr: 'fr_FR',
   de: 'de_DE',
   pt: 'pt_BR',
+  pt: 'pt_PT',
   ru: 'ru_RU',
   uk: 'uk',
   vi: 'vi',
@@ -29,6 +30,7 @@ var headerLocaleMap = {
   'zh-CN': 'zh_CN',
   'zh-TW': 'zh_TW',
   'pt-BR': 'pt_BR',
+  'pt-PT': 'pt_PT',
   'es-ES': 'es_ES',
   'sl-SI': 'sl_SI'
 };
