@@ -1358,6 +1358,7 @@ exports.strings = {
     'es_AR': 'No especificaste ninguna pista, ¿querés agregar alguna?',
     'es_ES': 'No especificaste ninguna pista, ¿quieres agregar alguna?',
     'pt_BR': 'Você não especificou uma dica, quer colocar uma?',
+    'pt_Pt': 'Não especificaste uma dica, queres colocar uma?',
     'gl'   : 'Ti non especificaches unha pista, ¿queres agregar algunha?',
     'fr_FR': 'Vous n\'avez pas spécifié d\'indice, voulez-vous en ajouter un ?',
     'ru_RU': 'Не указана подсказка для уровня! Пренебречь? Вальсируем?',
