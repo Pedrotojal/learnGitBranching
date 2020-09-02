@@ -1603,6 +1603,7 @@ exports.strings = {
     'es_AR': 'Podés ocultar esta ventana con "hide goal"',
     'es_ES': 'Puedes ocultar esta ventana con "hide goal."',
     'pt_BR': 'Você pode ocultar esta janela com "hide goal"',
+    'pt_PT': 'Podes ocultar esta janela com "hide goal"',
     'gl'   : 'Podes ocultar esta ventá con "hide goal"',
     'fr_FR': 'Vous pouvez masquer cette fenêtre avec "Cacher les cibles"',
     'ja'   : 'このウィンドウは"hide goal"と打つかクリックで閉じれます',
