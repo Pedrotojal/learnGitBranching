@@ -1434,6 +1434,7 @@ exports.strings = {
     'es_AR': 'Estableciendo el punto de inicio... La solución y el objetivo serán sobreescritos si ya habían sido definidos',
     'es_ES': 'Estableciendo el punto de inicio... La solución y el objetivo serán sobreescritos si ya habían sido definidos.',
     'pt_BR': 'Esbelecendo o ponto de início... a solução e o objetivo serão sobrescritos caso já existirem',
+    'pt_PT': 'A estabelecer o ponto de início... a solução e o objectivo serão reescritos caso já existam',
     'gl'   : 'Establecendo o punto de inicio... A solución e o obxectivo serán sobreescritos se xa foron definidos.',
     'fr_FR': 'Redéfinition du point de départ… la solution et la cible seront écrasés s\'ils ont déjà été définis',
     'ru_RU': 'Устанавливаю стартовую точку... Решение и итоговое состояние будут стёрты, если они указаны ранее',
