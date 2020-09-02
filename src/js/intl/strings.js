@@ -1490,6 +1490,7 @@ exports.strings = {
     'zh_CN': '显示目标',
     'fr_FR': 'Afficher les cibles',
     'pt_BR': 'Mostrar objetivo',
+    'pt_Pt': 'Mostrar objectivo',
     'gl'   : 'Amosar obxectivo',
     'es_AR': 'Mostrar objetivo',
     'es_ES': 'Mostrar objetivo',
