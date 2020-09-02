@@ -1643,6 +1643,7 @@ exports.strings = {
     'es_AR': 'Constructor de niveles',
     'es_ES': 'Constructor de niveles',
     'pt_BR': 'Construtor de níveis',
+    'pt_PT': 'Construtor de níveis',
     'gl'   : 'Constructor de nivéis',
     'fr_FR': 'Éditeur de niveaux',
     'ja'   : 'Levelエディタ',
