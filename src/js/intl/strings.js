@@ -1563,6 +1563,7 @@ exports.strings = {
     'es_AR': 'Objetivo a cumplir',
     'es_ES': 'Objetivo a cumplir',
     'pt_BR': 'Objetivo a cumprir',
+    'pt_PT': 'Objectivo a cumprir',
     'gl'   : 'Obxectivo a cumprir',
     'fr_FR': 'Cible à atteindre',
     'ja'   : '到達目標',
