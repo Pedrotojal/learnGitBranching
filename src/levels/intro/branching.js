@@ -9,6 +9,7 @@ exports.level = {
     "es_AR": "Brancheando en Git",
     "es_ES": "Creando ramas en Git",
     "pt_BR": "Ramos no Git",
+    "pt_PT": "Ramos (branching) no Git",
     "gl"   : "Ramas en Git",
     "fr_FR": "Gérer les branches avec Git",
     "zh_CN": "Git Branch",
@@ -25,6 +26,7 @@ exports.level = {
     "es_AR": "Hacé una nueva rama con \"git branch [nombre]\" y cambiá a ella con \"git checkout [nombre]\"",
     "es_ES": "Crea una nueva rama con \"git branch [nombre]\" y sitúate en ella con \"git checkout [nombre]\"",
     "pt_BR": "Crie um novo ramo com \"git branch [nome]\" e mude para ele com \"git checkout [nome]\"",
+    "pt_PT": "Cria um novo branch com \"git branch [nome]\" e entra (checkout) no branch com \"git checkout [nome]\"",
     "gl"   : "Crea unha nova rama con \"git branch [nome]\" e cambiate a ela facendo \"git checkout [nome]\"",
     "fr_FR": "Faites une nouvelle branche avec \"git branch [nom]\" positionnez-vous dans celle-ci avec \"git checkout [nom]\"",
     "zh_CN": "用 'git branch <分支名>' 来创建分支，用 'git checkout <分支名>' 来切换到分支",
@@ -501,6 +503,84 @@ exports.level = {
             "markdowns": [
               "Ok! Vocês estão todos prontos para ramificar. Assim que esta janela fechar,",
               "crie um novo ramo chamado `bugFix` e mude para esse ramo."
+            ]
+          }
+        }
+      ]
+    },
+    "pt_PT": {
+      "childViews": [
+        {
+          "type": "ModalAlert",
+          "options": {
+            "markdowns": [
+              "## Git Branches",
+              "",
+              "Os branches também são incrivelmente leves. São simplesmente referências a um commit específico -- e nada mais. É por isso que muitos entusiastas do Git entoam o mantra:",
+              "",
+              "```",
+              "branch early, and branch often",
+              "```",
+              "",
+              "Devido a não existir sobrecarga de armazenamento / memória associada à criação de branches, é mais fácil dividir logicamente o seu trabalho do que ter branches grandes e gordos.",
+              "",
+              "Quando começarmos a misturar branches e commits, vamos ver como esses dois recursos combinam bem. Por enquanto, lembra-te que um branch diz essencialmente \"Quero incluir o trabalho deste commit e de todos os seus ancestrais\"."
+            ]
+          }
+        },
+        {
+          "type": "GitDemonstrationView",
+          "options": {
+            "beforeMarkdowns": [
+              "Vejamos como os branches funcionam na prática.",
+              "",
+              "Aqui vamos criar um novo branch chamado `newImage`."
+            ],
+            "afterMarkdowns": [
+              "Repara, é só isto que tens de fazer para ramificar! O branch `newImage` refere-se agora ao commit `C1`."
+            ],
+            "command": "git branch newImage",
+            "beforeCommand": ""
+          }
+        },
+        {
+          "type": "GitDemonstrationView",
+          "options": {
+            "beforeMarkdowns": [
+              "Vamos tentar adicionar commits neste novo branch. Clica no botão abaixo."
+            ],
+            "afterMarkdowns": [
+              "Ah não! O `master` moveu-se mas o `newImage` não! Isso é porque o novo branch não era o \"ativo\", e é por isso que o asterisco (*) estava no `master`."
+            ],
+            "command": "git commit",
+            "beforeCommand": "git branch newImage"
+          }
+        },
+        {
+          "type": "GitDemonstrationView",
+          "options": {
+            "beforeMarkdowns": [
+              "Vamos contar ao git que queremos fazer checkout no branch com:",
+              "",
+              "```",
+              "git checkout [nome]",
+              "```",
+              "",
+              "Isso vai situar-nos no branch antes de fazer commit às nossas mudanças."
+            ],
+            "afterMarkdowns": [
+              "Aqui vamos nós! As nossas mudanças foram gravadas no novo branch."
+            ],
+            "command": "git checkout newImage; git commit",
+            "beforeCommand": "git branch newImage"
+          }
+        },
+        {
+          "type": "ModalAlert",
+          "options": {
+            "markdowns": [
+              "Ok! Estás pronto para criar branches. Assim que esta janela fechar,",
+              "cria um novo branch chamado `bugFix` e mude para este branch."
             ]
           }
         }
