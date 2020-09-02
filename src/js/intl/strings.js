@@ -796,6 +796,7 @@ exports.strings = {
     'zh_CN': '主要',
     'zh_TW': '主要',
     'es_ES': 'Principal',
+    'pt_PT': 'Principal',
     'gl'   : 'Principal',
     'ru_RU': 'Основы',
     'uk'   : 'Основи',
