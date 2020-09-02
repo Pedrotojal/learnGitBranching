@@ -1415,6 +1415,7 @@ exports.strings = {
     'es_AR': '¡Tu solución está vacía! Algo hay que hacer',
     'es_ES': '¡Tu solución está vacía! Algo hay que hacer.',
     'pt_BR': 'Sua solução está vazia! O aprendiz deveria ter que fazer alguma coisa',
+    'pt_PT': 'A tua solução está vazia! Falta fazer alguma coisa',
     'gl'   : '¡Su solución está vacía! Algo haberá que facer.',
     'fr_FR': 'Votre solution est vide !! Quelque chose ne tourne pas rond',
     'ru_RU': 'Решение не указано! Так не годится!',
