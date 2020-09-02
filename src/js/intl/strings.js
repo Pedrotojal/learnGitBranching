@@ -1510,6 +1510,7 @@ exports.strings = {
     'zh_TW': '隱藏目標',
     'zh_CN': '隐藏目标',
     'pt_BR': 'Ocultar objetivo',
+    'pt_PT': 'Ocultar objectivo',
     'gl'   : 'Ocultar obxectivo',
     'es_AR': 'Ocultar objetivo',
     'es_ES': 'Ocultar objetivo',
