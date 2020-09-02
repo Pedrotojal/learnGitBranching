@@ -1545,6 +1545,7 @@ exports.strings = {
     'zh_TW': 'Git示範',
     'zh_CN': 'Git示范',
     'es_ES': 'Demostración de Git',
+    'pt_PT': 'Demostracção do Git',
     'gl'   : 'Demostración de Git',
     'ru_RU': 'Git демо',
     'uk'   : 'Git демо',
