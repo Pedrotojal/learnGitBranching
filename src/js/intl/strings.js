@@ -1396,6 +1396,7 @@ exports.strings = {
     'es_AR': 'Ingresá el nombre del nivel',
     'es_ES': 'Ingresa el nombre del nivel.',
     'pt_BR': 'Coloque o nome do nível',
+    'pt_PT': 'Coloca o nome do nível',
     'gl'   : 'Coloque o nome do nivel',
     'fr_FR': 'Entrez le nom pour ce niveau',
     'ru_RU': 'Введи название уровня',
