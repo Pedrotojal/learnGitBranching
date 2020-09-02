@@ -1723,6 +1723,7 @@ exports.strings = {
     'es_AR': 'Este mensaje o texto aún no fue traducido a tu idioma :( ¡Metete en GitHub y ayudanos a traducirlo!',
     'es_ES': 'Este mensaje o texto aún no fue traducido a tu idioma. :( ¡Métete en GitHub y ayúdanos a traducirlo!',
     'pt_BR': 'Esta mensagem ou texto não foi traduzida para Português :( Ajude-nos a traduzir no GitHub!',
+    'pt_PT': 'Esta mensagem ou texto não foi traduzida para Português :( Ajuda-nos a traduzir no GitHub!',
     'gl'   : 'Esta mensaxe ou texto non foi traducida ó teu idioma :( Axúdanos a traducir a web en GitHub, é moi doado!',
     'fr_FR': 'Ce message n\'a pas encore été traduit dans votre langue :( Venez sur GitHub aider à la traduction !',
     'ja'   : 'このダイアログ、またはテキストの翻訳がまだ存在しません :( GitHubでの、翻訳の協力をお願いします m(_)m',
