@@ -812,6 +812,7 @@ exports.strings = {
     'zh_CN': '远程',
     'zh_TW': '遠端',
     'es_ES': 'Remota',
+    'pt_PT': 'Remote',
     'gl'   : 'Remota',
     'ru_RU': 'Удаленные репозитории',
     'uk'   : 'Віддалені репозиторії',
