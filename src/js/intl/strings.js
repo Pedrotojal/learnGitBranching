@@ -1623,6 +1623,7 @@ exports.strings = {
     'es_AR': 'Podés ocultar esta ventana con "hide start"',
     'es_ES': 'Puedes ocultar esta ventana con "hide start."',
     'pt_BR': 'Você pode ocultar esta janela com "hide start"',
+    'pt_PT': 'Podes ocultar esta janela com "hide start"',
     'gl'   : 'Podes ocultar esta ventá con "hide start"',
     'fr_FR': 'Vous pouvez masquer cette fenêtre avec "hide start"',
     'ja'   : 'このウィンドウは"hide start"かクリックで閉じれます',
