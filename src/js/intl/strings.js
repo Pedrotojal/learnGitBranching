@@ -1683,6 +1683,7 @@ exports.strings = {
     'es_AR': 'Mmm... Pareciera no haber pistas para este nivel :-/',
     'es_ES': 'Mmm... Parece que no hay pistas para este nivel. :-/',
     'pt_BR': 'Hmm, não existe nenhuma pista para este nível :-/',
+    'pt_PT': 'Hmm, não existe nenhuma pista para este nível :-/',
     'gl'   : 'Hmm, non existe ningunha pista para este nivel :-/',
     'fr_FR': 'Hum, il ne semble pas y avoir d\'indice pour ce niveau :-/',
     'ja'   : 'あらら、このLevelでは、残念ながらヒントが存在しません :-/',
