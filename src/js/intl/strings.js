@@ -1320,6 +1320,7 @@ exports.strings = {
     'es_AR': 'Este es el JSON de este nivel. Compartilo con quien quieras o mandámelo por GitHub',
     'es_ES': 'Este es el JSON de este nivel. Compártelo con quien quieras o mandámelo por GitHub.',
     'pt_BR': 'Aqui está o JSON para este nível! Compartilhe com alguém ou me envie pelo GitHub',
+    'pt_PT': 'Aqui está o JSON para este nível! Partilha com alguém ou envia-me no GitHub',
     'gl'   : 'Este é o JSON deste nivel. Comparteo con quen queiras ou mándao por GitHub',
     'fr_FR': 'Voici le JSON pour ce niveau ! Partagez-le avec quelqu\'un ou envoyez-le moi sur GitHub',
     'ru_RU': 'Вот JSON для этого уровня! Поделись им с кем-нибудь или отправь его нам на GitHub',
